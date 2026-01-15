@@ -1,0 +1,7 @@
+{
+  "name": "synchron0-260115",
+  "description": "WELCOME TO SYNCHRONOS\n\nsynchron operating system\n\nprompt engineering project\n\nWe are attempting to design a system which will allow users on GitHub to clone the template for this app and at the same time synchronise the sequence of prompts which they use to continue building the app with Google AI Studio\n\nWe need to connect to files in the GitHub repository right from the start and encourage users with prompt suggestions on how to proceed so that - as much as possible - the app can be rebuild once again by a new user using the same prompts after cloning the repository at whatever stage they happen to join the project collaboration workflow\n\nAlso at any stage - within our own personal Google account - we could copy and rename the project in Google drive by reference to the system management core files stored in the GitHub repository\n\nRenaming the new projects would have to follow a strict format: synchronX-[datestamp] where X=N starting at N=0 and increasing incrementally (format for datestamp: YYMMDD)\n\nDo you think it would be possible to create such a project ???",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
